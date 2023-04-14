@@ -1,0 +1,1 @@
+# FireDetectionYOLOv8
